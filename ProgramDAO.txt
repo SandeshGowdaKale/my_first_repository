@@ -1,0 +1,8 @@
+class GitHubClone{
+public static void main(String[] args){
+
+System.out.println("Clone Succesfully");
+
+}
+
+}
